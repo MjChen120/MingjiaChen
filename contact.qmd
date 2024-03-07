@@ -2,4 +2,4 @@
 title: "Contact"
 ---
 
-You can email me at mingjia.chen@mail.utoronto.ca
+You can email me at mingjia.chen\@mail.utoronto.ca
