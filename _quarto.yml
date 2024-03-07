@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mingjia Chen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "CV"
+        href: about.pdf
+      - contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
